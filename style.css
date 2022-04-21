@@ -1,5 +1,7 @@
 .section1 {
     background-color: rgb(0, 0, 0);
+    background-image: url(gambar/plstikhitambanner.jpg);
+    background-size: cover;
 }
 .heading-plastik{
     color: gainsboro;
@@ -50,6 +52,8 @@ h2{
     background-color: black;
     padding: 5% 35% 5%;
     text-align: center;
+    background-image: url(gambar/plstikhitambanner.jpg);
+    background-size: cover;
 }
 .footer{
     background-color: #A7D129;
