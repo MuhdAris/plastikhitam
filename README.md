@@ -1,2 +1,0 @@
-# plastikhitam
-Latihan web statik
